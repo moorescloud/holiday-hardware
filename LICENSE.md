@@ -1,0 +1,1 @@
+The revision 2 hardware design is in Altium Designer (v13) format, and the Altium files along with the BOM, PDF, and gerber outputs are now available under the [Creative Commons Attribution Share-Alike license] (http://creativecommons.org/licenses/by-sa/2.0/au/)
